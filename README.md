@@ -21,7 +21,9 @@
 * Ejecutar la clase Main
 * Ingresar el número al que se le quiere realizar el conteo regresivo
 * Ingresar la letra del alfabeto
-* 
+  
 ## Integrantes
 
 * Karen Paola Estupiñan Micolta
+* María Camila Cardona Valencia
+* Mateo Barco Rosso
