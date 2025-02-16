@@ -25,5 +25,3 @@
 ## Integrantes
 
 * Karen Paola Estupiñan Micolta
-* María Camila Cardona Valencia
-* Mateo Barco Rosso
